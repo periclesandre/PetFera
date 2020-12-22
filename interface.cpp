@@ -7,11 +7,22 @@
 #include "ave.hpp"
 #include "tratador.hpp"
 #include "veterinario.hpp"
-#include <vector>
+#include "interface.hpp"
+#include <vector> 
+#include <string>
+#include<ostream>
+#include<memory>
 
-using namespace std;
+Interface::Interface(){
+	
+}
+Interface::~Interface(){
+	
+}
 
-int main(int argc, char const *argv[]){
+void 
+Interface::testar(){
+
 	
     Tratador* tratador = new Tratador();
     Veterinario* veterinario = new Veterinario();
@@ -24,7 +35,6 @@ int main(int argc, char const *argv[]){
     int x;
     int y;
     string a;
-
 
     do{
         
@@ -210,6 +220,5 @@ int main(int argc, char const *argv[]){
     ave->gravaAve();
     reptil->gravaReptil();
     anfibio->gravaAnfibio();
-
-    return 0;
+	
 }
