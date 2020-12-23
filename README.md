@@ -7,8 +7,8 @@ Para a disciplina de Linguagem de Programação I
 Professor SILVIO COSTA SAMPAIO
 IMD - UFRN
 
-Sobre a aplicação:
-Tratata-se da criação de um software administrativo de um petshop, onde é possível cadastrar, remover e consultar os animais, que são classificados como anfibios, répteis, aves ou mamiféros, é possível também realizar as mesmas operações para os profissionais da loja que são classificados como, tratadores ou veterinários.
+Sobre a aplicação: 
+Trata-se da criação de um software administrativo de um petshop, onde é possível cadastrar, remover e consultar os animais, que são classificados como anfíbios, répteis, aves ou mamíferos, é possível também realizar as mesmas operações para os profissionais da loja que são classificados como, tratadores ou veterinários.
 
 O repositório encontra-se em https://github.com/periclesandre/PetFera
 
@@ -16,7 +16,7 @@ A explicação sobre o funcionamento encontra-se em (parte 1): https://youtu.be/
 
 A apresentação da parte 2 encontra-se em: https://youtu.be/MiPigneGbXg
 
-Apresentação Final (4 prova) encontra-se em:
+Apresentação Final (4 prova) encontra-se em: https://youtu.be/VcSLHQOQ20w
 
 EXECUÇÃO DO PROGRAMA
 
